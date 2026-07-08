@@ -280,3 +280,22 @@ display: block;
     content: "✦ ";
     color: var(--rosa-escuro);
 }
+
+footer {
+    background-color: var(--marrom);
+    color: var(--bege);
+    text-align: center;
+    padding: 40px;
+}
+
+footer .logo-footer {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    letter-spacing: 3px;
+    margin-bottom: 12px;
+}
+
+footer p {
+    font-size: 13px;
+    color: #c4a08a;
+}
